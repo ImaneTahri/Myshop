@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://floating-cliffs-63811.herokuapp.com/",
+  "proxy": "yourlocalhost",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

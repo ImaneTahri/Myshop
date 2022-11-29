@@ -37,8 +37,8 @@ const Footer = () => {
                     </div>
                 </div> 
                 <div class="Copyright">
-
-                <li><a href="https://www.imanetahri.ca/">By mane TAHRI</a></li>
+                 <li> © Copyright Myshop All Rights Reserved.</li>
+                <li><a href="https://www.imanetahri.ca/">By imane TAHRI</a></li>
 
 
                 </div>

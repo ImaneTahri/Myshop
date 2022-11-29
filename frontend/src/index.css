@@ -44,14 +44,14 @@ h2 {
 .Copyright{
 
   color: green;
-  background-color: goldenrod;
+  background-color: rgb(224, 220, 210);
   position: relative;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   text-align: center;
-  font-size: large;
-  font-family: Impact,'Arial Narrow ', sans-serif;
+  font-size: small;
+  font-family: "Poppins", sans-serif;
 }
 
 

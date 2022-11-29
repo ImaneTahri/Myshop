@@ -1,9 +1,9 @@
-# AmazonaShop
+# Myshop app By Imane TAHRI
 
-> Build Ecommerce App Like Amazon By MERN Stack
+> Build Ecommerce  By MERN Stack
 
 ## Live Prview Project
-[Demo Project](https://www.myshop.imanetahri.ca/)
+[Demo Project](https://floating-cliffs-63811.herokuapp.com/)
 
 
 ## Features
@@ -22,7 +22,6 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-## Usage
 
 ### ES Modules in Node
 
@@ -77,23 +76,15 @@ There is a Heroku postbuild script, so if you push to Heroku, no need to build m
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
 ```
-# Import data
-npm run data:import
 
-# Destroy data
-npm run data:destroy
-```
-
-
-```
 Sample User Logins
 
 Fill Register Page and create own account   (Customer)
 
-iman@example.com (Admin)
+imane@example.com (Admin)
 123456
 
-iman@example.com (Customer)
+imane@example.com (Customer)
 123456
 
 

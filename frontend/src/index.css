@@ -49,6 +49,8 @@ h2 {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   text-align: center;
   font-size: small;
   font-family: "Poppins", sans-serif;

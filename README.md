@@ -3,7 +3,7 @@
 > Build Ecommerce  By MERN Stack
 
 ## Live Prview Project
-[Demo Project ] https://floating-cliffs-63811.herokuapp.com/
+[Demo Project ] https://myshop.imanetahri.ca/
 
 
 ## Features
